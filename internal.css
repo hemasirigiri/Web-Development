@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      h1{
+        background-color:powderblue;
+      }
+      p{
+        color:pink;
+      }
+    </style>
+  </head>
+  <body>
+   <h1>Heading</h1>
+    <p>Para</p>
+  </body>
+</html>

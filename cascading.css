@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <!--External CSS-->
+    <link rel="stylesheet" href="styles.css">
+    <!--Intenal CSS-->
+    <style>
+   body {background-color:powderblue;}
+   h1 {color:violet;}
+   p {color:aqua;}
+    </style>
+  </head>
+  <body>
+    <h>Heading</h>
+    <p>Paragraph</p>
+    <!--External CSS-->
+    <h>Heading</h>
+    <p>Paragraph</p>
+    <!--Inline CSS-->
+    <h1 style="color:red;">Heading</h1>
+    <p style="color:violet;">Paragraph</p>
+  </body>
+</html>
